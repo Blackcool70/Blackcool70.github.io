@@ -1,9 +1,9 @@
-- layout: top-middle
+- layout: left
   name: Discord Bot
   github: Blackcool70
   description: | # this will include new lines to allow paragraphs
     Created a discord bot with the name Mr.Robot. I taught myself Python including various APIs that I needed for my Bot.
-- layout: top-middle
+- layout: left
   name: Master The Mainframe
   description: | # this will include new lines to allow paragraphs
     Part One finisher - 2017, 2018, 2019

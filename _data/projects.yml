@@ -1,6 +1,5 @@
 - layout: left
   name: Discord Bot
-  github: Blackcool70
   description: | # this will include new lines to allow paragraphs
     Created a discord bot with the name Mr.Robot. I taught myself Python including various APIs that I needed for my Bot.
 - layout: left

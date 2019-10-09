@@ -21,16 +21,10 @@ about_profile_image: images/atef_1.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a Software Engineering Major looking for an opportunity to work in the field of technology. I am a fast learner, driven, motivated, and a dependable individual.
   
-  Languages - 
+  Proficient in: <mark>Python, Java, COBOL.</mark>
   
-  Proficient in: Python
-  
-  Familiar with: C++, REXX, Java, COBOL, SQLite, Shell script, ARM, C.
-  
-  Software - 
-  
-  Android Studio, SQL Workbench, IntelliJ IDEA, Windows 10, Linux Ubuntu, z/OS, Vim, ISPF, Atom, Microsoft
-  office
+  Familiar with: <mark>C++, REXX, SQLite, Shell script, ARM, C, Android Studio, SQL Workbench, IntelliJ IDEA, Windows 10, Linux Ubuntu, z/OS, Vim, ISPF, Atom, Microsoft
+  office.</mark>
 # Projects Section
 # projects_title: Projects
 

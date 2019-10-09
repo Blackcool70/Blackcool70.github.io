@@ -3,14 +3,18 @@
   dates: 2017 - Present
   qualification: BS Computer Science Software Engineering Track
   description: | # this will include new lines to allow paragraphs
-    I am expected to graduate in May 2020. |
-    Dean's list: Fall 2017, Spring 2018, Spring 2019 |
-    GPA: 3.607 |
+    I am expected to graduate in May 2020.
+    
+    Dean's list: Fall 2017, Spring 2018, Spring 2019
+    
+    GPA: 3.607 
+    
     Relevant courses: Data structures & Algorithms, Programming languages, Scripting
     languages, Net-Centric computing, Computer Org & Assembly, Discrete structures II,
     Algorithm Design/Analysis, Enterprise systems app development, Operating systems &
     networking, Computer Architecture, Database Systems. Concurrent Systems, CICS,
     Android, Intro to Enterprise Systems.
+    
 - layout: left
   name: South Plains College
   dates: 2015 - 2017

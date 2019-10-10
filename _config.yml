@@ -25,7 +25,7 @@ about_content: | # this will include new lines to allow paragraphs
   Familiar with: <mark>C++, REXX, SQLite, Shell script, ARM, C, Android Studio, SQL Workbench, IntelliJ IDEA, Windows 10, Linux Ubuntu, z/OS, Vim, ISPF, Atom, Microsoft
   office.</mark>
   
-  Phone Number: <mark>+1 806 557 8966</mark>
+#Phone Number: <mark>+1 806 557 8966</mark>
 # Projects Section
 # projects_title: Projects
 

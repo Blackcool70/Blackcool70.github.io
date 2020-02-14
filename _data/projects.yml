@@ -1,4 +1,9 @@
 - layout: left
+  name: Fund Management System
+  description: | # this will include new lines to allow paragraphs
+    Worked with my Senior Project team alongside the business office to streamline multiple processes that they have been doing manually.
+    
+- layout: left
   name: Discord Bot
   description: | # this will include new lines to allow paragraphs
     Created a discord bot with the name Mr.Robot. I taught myself Python including various APIs that I needed for my Bot.
